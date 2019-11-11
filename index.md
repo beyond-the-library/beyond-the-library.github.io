@@ -15,7 +15,29 @@ Beyond the Library is a web application for students to post and rate study spot
 
 ### Landing Page
 
-## Community Feedback
+![](images/landingpage.jpg)
+
+### User Profile Page
+
+![](images/20191111_113438.jpg)
+
+### Sign Up Page
+
+![](images/20191111_113442.jpg)
+
+### Sign In Page
+
+![](images/20191111_113454.jpg)
+
+### Add Study Spot Page
+
+![](images/20191111_113458.jpg)
+
+### Discover New Study Spots Page
+
+![](images/20191111_113446.jpg)
+
+### Community Feedback
 
 (Apologies, this is still under construction. Mahalo for your understanding)
 
