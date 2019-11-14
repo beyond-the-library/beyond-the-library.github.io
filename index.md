@@ -1,5 +1,8 @@
+![](images/logo-temp.png)
+
 # Table of Contents
 
+* [Meet the Team](#meet-the-team)
 * [Project Goal](#project-goal)
 * [Team Goals](#team-goals)
 * [User Guide](#user-guide)
@@ -9,6 +12,24 @@
 * [Development History](#development-history)
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
+
+## Meet the Team
+
+### Christopher
+* Major: Computer Engineering
+* Likes to program
+ 
+### Yuhan
+* Major Computer Science
+* "He invented programing"
+
+### Andrew
+* Major: Computer Engineering
+* Programing is his life
+
+### Aljaed
+* Major: Computer Engineering
+* Married to programing
 
 ## Project Goal
 
@@ -56,7 +77,7 @@ Examples of pages in the Beyond the Library web application.
 
 ### Sign Up Page
 
-![](images/20191111_113442.jpg)
+![](images/signup-mockup.png)
 
 ### Sign In Page
 
