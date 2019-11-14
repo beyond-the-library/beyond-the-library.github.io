@@ -48,7 +48,7 @@ Examples of pages in the Beyond the Library web application.
 
 ### Landing Page
 
-![](images/landingpage.jpg)
+![](images/landingpagemockup.png)
 
 ### User Profile Page
 
