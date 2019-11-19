@@ -89,7 +89,7 @@ Examples of pages in the Beyond the Library web application.
 
 ### Discover New Study Spots Page
 
-![](images/20191111_113446.jpg)
+![](images/discover-new-spots.JPG)
 
 ### Community Feedback
 
