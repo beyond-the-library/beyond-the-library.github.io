@@ -1,4 +1,4 @@
-![](images/logo-temp.png)
+<img src="images/logo-temp.png" alt="logo" width="200" height="200"/>
 
 # Table of Contents
 
