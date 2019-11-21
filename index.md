@@ -78,32 +78,49 @@ Examples of pages in the Beyond the Library web application.
 ### Landing Page
 
 ![](images/landingpagemockup.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/)
 
-The landing page is created with the idea that users shouldn't have to scroll around a page to figure out what the page/website is all about. We provide information about the site and how/why users should create an account. 
+The landing page is created with the idea that users shouldn't have to scroll around a page to figure out what the
+ page/website is all about. We provide information about the site and how/why users should create an account. 
 
 ### User Profile Page
 
-![](images/userprofilemockup.png)
+![](images/user.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/userprofile)
 
-The User Profile page is meant to highlight the users favorited spots and allows an easy way to customize their account.
+The User Profile page is meant to highlight the users favorite spots and allows an easy way to customize their account.
 
 ### Sign Up Page
 
-![](images/signup-mockup.png)
+![](images/reg.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/signup)
+
+The sign up page allows people to register for an account.
 
 ### Sign In Page
 
-![](images/20191111_113454.jpg)
+![](images/login.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/signin)
+
+The sign in page allows users to log into their account. Certain features, such as adding a study spot requires the
+ user to be logged in.
 
 ### Add Study Spot Page
 
-![](images/myspots.jpg)
-![](images/allspots.jpg)
+![](images/myspots.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/myspots)
 
-Users can see all the spots they posted to the admin user on myspots page. Users cannot directly publish a spot; the admin user can edit and publish spots on the admin allspots page. 
+![](images/adminspots.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/admin)
+
+Users can see all the spots they posted to the admin user on myspots page. Users cannot directly publish a spot; the admin user can edit and publish spots on the admin allspots page.
+
 ### Discover New Study Spots Page
 
-![](images/discover-new-spots.JPG)
+![](images/discover.png)
+[I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/discovery)
+
+Users can filter study spots based on various parameters such as major restriction.
 
 ### Community Feedback
 
