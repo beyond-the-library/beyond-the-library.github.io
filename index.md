@@ -100,6 +100,7 @@ The User Profile page is meant to highlight the users favorited spots and allows
 ![](images/myspots.jpg)
 ![](images/allspots.jpg)
 
+Users can see all the spots they posted to the admin user on myspots page. Users cannot directly publish a spot; the admin user can edit and publish spots on the admin allspots page. 
 ### Discover New Study Spots Page
 
 ![](images/discover-new-spots.JPG)
