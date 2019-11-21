@@ -71,9 +71,13 @@ Examples of pages in the Beyond the Library web application.
 
 ![](images/landingpagemockup.png)
 
+The landing page is created with the idea that users shouldn't have to scroll around a page to figure out what the page/website is all about. We provide information about the site and how/why users should create an account. 
+
 ### User Profile Page
 
-![](images/20191111_113438.jpg)
+![](images/userprofilemockup.png)
+
+The User Profile page is meant to highlight the users favorited spots and allows an easy way to customize their account.
 
 ### Sign Up Page
 
