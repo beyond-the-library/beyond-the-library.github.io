@@ -1,7 +1,15 @@
-<img src="images/logo-temp.png" alt="logo" width="200" height="200"/>
+<img src="images/logo-temp.png" alt="logo" width="250" height="250"/>
 
 # Table of Contents
 
+## Quick Access
+* [Beyond the Library Organization Page](https://github.com/beyond-the-library)
+* [Documentation GitHub Repository](https://github.com/beyond-the-library/beyond-the-library.github.io)
+* [Code GitHub Repository](https://github.com/beyond-the-library/beyond-the-library)
+* [Project Milestone 1](https://github.com/beyond-the-library/beyond-the-library/projects/3)
+* [Project Milestone 2](https://github.com/beyond-the-library/beyond-the-library/projects/2)
+
+## Topics On Site
 * [Meet the Team](#meet-the-team)
 * [Project Goal](#project-goal)
 * [Team Goals](#team-goals)
