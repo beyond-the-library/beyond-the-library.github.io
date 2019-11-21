@@ -97,8 +97,8 @@ The User Profile page is meant to highlight the users favorited spots and allows
 
 ### Add Study Spot Page
 
-![](images/myspos.jpg)
-![](images/allspos.jpg)
+![](images/myspots.jpg)
+![](images/allspots.jpg)
 
 ### Discover New Study Spots Page
 
