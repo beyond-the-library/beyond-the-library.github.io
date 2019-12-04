@@ -1,1 +1,8 @@
+title: Beyond The Library
+description: A web application for UH students to find places to study
+google_analytics:
+show_downloads: true
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
