@@ -75,7 +75,7 @@ Study spots submitted by the user will appear under the My Spots page. Users can
 Users can filter study spots based on various parameters such as major restriction. Rejected and archived spots will
  NOT be displayed on this page. Only the admin user has access to those study spots.
  
- ### Achievements Page
+### Achievements Page
  
  ![](images/achievement.png)
 [I'm alive, click me to visit the page you see above!](http://beyond-the-library.meteorapp.com/#/achievements)
