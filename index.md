@@ -10,7 +10,7 @@
 * [Code Repository](https://github.com/beyond-the-library/beyond-the-library)
 * [Project Milestone 1](https://github.com/beyond-the-library/beyond-the-library/projects/3)
 * [Project Milestone 2](https://github.com/beyond-the-library/beyond-the-library/projects/2)
-* [Project Milestone 3](https://github.com/beyond-the-library/beyond-the-library/projects/2)
+* [Project Milestone 3](https://github.com/beyond-the-library/beyond-the-library/projects/4)
 
 ## Table of Contents
 * [Overview](#overview)
