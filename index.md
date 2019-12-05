@@ -1,4 +1,6 @@
-<a href='https://beyond-the-library.meteorapp.com'><img src="images/logo-temp.png" alt="logo" width="250" height="250"/></a>
+<a href='https://beyond-the-library.meteorapp.com'>
+    <img src="images/logo-temp.png" alt="logo" width="250" height="250"/>
+</a>
 
 
 ## Quick Access
@@ -151,5 +153,3 @@ Users can earn achievements based on their activities such as adding a certain a
 * [Yuhan's Professional Portfolio](https://yuhanj.github.io/)
 * [Aljaed's Professional Portfolio](https://aljereno.github.io/)    
 * [Andrew's Professional Portfolio](https://asalazar46.github.io/)  
-
-[^Back to Top of Page^](#quick-access)
