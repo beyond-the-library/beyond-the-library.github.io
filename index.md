@@ -99,7 +99,7 @@ Users can earn achievements based on their activities such as adding a certain a
     ```
 5. Run the application with the following command:
     ```
-    npm i semantic-ui-carousel-react
+    npm run start
     ```
 6. Running the app for the first time should produce a similar output:
     ```
