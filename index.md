@@ -89,7 +89,7 @@ The FAQ Page allows the user to read explanations/instructions to common questio
 
 On the Discover Page, the user can filter study spots by certain criteria (i.e. all study spots that are outdoors
 ) using the dropdown menu options. Pressing the "clear" button will reset the filter and show all study spots
-. Below each study spot card are comments posted by logged in users.
+. Below each study spot card are comments posted by logged in users. The image of each card has a clickable link to its location page.
  
 ![](images/discover.png)
 [Live Version of Discover Page](http://beyond-the-library.meteorapp.com/#/discovery)
