@@ -25,7 +25,7 @@
 
 Currently, there is no dedicated website for study spots for UH students! Well that was the case until now. Beyond the
  Library is a web application for UH students to discover and share study spots both on the UH campus grounds and the
-  surrounding areas. This is to encourage UH students to got **beyond the library** when it comes to sitting down and
+  surrounding areas. This is to encourage UH students to go **beyond the library** when it comes to sitting down and
    studying (hence the name). 
   
 ### Special Sauce
@@ -152,7 +152,7 @@ The admin can view all study spots regardless if it is classified as "published"
 2. Clone <a href="https://github.com/beyond-the-library/beyond-the-library">Beyond the Library</a> to your local
  machine.
 3. Navigate to the app/ directory in your local copy of Beyond the Library.
-4. Run the following commands to install the necessary libraries. These are located in the "package.json". 
+4. Run the following command to install the necessary libraries. _These are located in the "package.json"._ 
     ```
     meteor npm install
     ```
