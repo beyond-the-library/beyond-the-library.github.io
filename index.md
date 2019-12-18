@@ -23,9 +23,16 @@
 
 ## Overview
 
-Beyond the Library is a web application for students to post and share study spots throughout the UH Manoa campus and
- the surrounding areas so that other students become aware of possible study spots. This is to inform UH students
-  that there are other locations beside the library to study (hence the name).
+Currently, there is no dedicated website for study spots for UH students! Well that was the case until now. Beyond the
+ Library is a web application for UH students to discover and share study spots both on the UH campus grounds and the
+  surrounding areas. This is to encourage UH students to got **beyond the library** when it comes to sitting down and
+   studying (hence the name). 
+  
+### Special Sauce
+
+The "special sauce" of Beyond the Library is the integration of a map to the study spot cards. This allows user to
+ easily determine the location of a study spot as well as other study spots nearby. Users can also share these
+  thoughts by posting comments on the study spot cards.
 
 ## User Guide
 
