@@ -111,13 +111,13 @@ When the user is logged into his/her account the Discover Page operates similarl
 ### (User) My Spots Page
 
 The user's submitted study spots are shown here if the user has any. There is also a button that the user presses to
- get to the new study spot submission form.
+ get to the new study spot submission form. Users who are new to this page will receive a pop up message.
  
 ![](images/myspots.png)
 [Live Version of My Spots Page](http://beyond-the-library.meteorapp.com/#/myspots)
 
 The user fills out the relevant information to add a spot. If the user is lost, by hovering their mouse over the
- blank field will show a pop up of what should be entered into the field.
+ blank field will show a pop up of what should be entered into the field. The user can choose continue or save & quit after submitting the basic information.
  
 ![](images/myspots2.png)
 [Live Version of My Spots Page](http://beyond-the-library.meteorapp.com/#/addspot)
